@@ -8,13 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Humankind',
   tagline: 'essentials in the tech products journey',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://vutuananhhd89.github.io/',
+  baseUrl: '/humankind/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Humankind', // Usually your GitHub org/user name.
-  projectName: 'Humankind', // Usually your repo name.
+  organizationName: 'vutuananhhd89',
+  projectName: 'humankind', 
+  deploymentBranch: 'master',
 
   presets: [
     [
