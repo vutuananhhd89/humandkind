@@ -16,6 +16,7 @@ const config = {
   organizationName: 'vutuananhhd89',
   projectName: 'humankind', 
   deploymentBranch: 'master',
+  // GIT_USER: 'vutuananhhd89',
 
   presets: [
     [
