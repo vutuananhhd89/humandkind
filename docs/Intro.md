@@ -9,5 +9,3 @@ sidebar_position: 1
 Get started from individuals forming **teams** with beliefs, cultures, norms.
 
 **Ways of Working** are initiated to guide people collaborate efficiently.
-
-
