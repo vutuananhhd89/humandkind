@@ -8,14 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Humankind',
   tagline: 'essentials in the tech products journey',
-  url: 'https://vutuananhhd89.github.io/',
-  baseUrl: '/humankind/',
+  url: 'https://humankindtech.netlify.app/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'vutuananhhd89',
   projectName: 'humankind', 
-  deploymentBranch: 'master',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
   // GIT_USER: 'vutuananhhd89',
 
   presets: [
