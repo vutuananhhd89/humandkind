@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'vutuananhhd89',
   projectName: 'humankind', 
-  deploymentBranch: 'master',
+  // deploymentBranch: 'master',
   // GIT_USER: 'vutuananhhd89',
 
   presets: [
