@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/anhvu.ico', //favicon.ico
   organizationName: 'vutuananhhd89',
   projectName: 'humankind', 
   deploymentBranch: 'gh-pages',
@@ -44,7 +44,7 @@ const config = {
         title: 'Humankind',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/anhvu.ico',
         },
         items: [
           {
