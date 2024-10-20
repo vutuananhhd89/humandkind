@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Humankind',
-  tagline: 'essentials in the tech products journey',
+  title: 'A Learning PM',
+  tagline: 'uncovering gems with teams to build working software',
   url: 'https://humankindtech.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -44,13 +44,13 @@ const config = {
         title: 'Humankind',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/anhvu.ico',
+          src: 'img/anhvu.ico', //logo.svg
         },
         items: [
           {
             to:'/docs/teams/starting-point',
             position: 'left',
-            label: 'Human',
+            label: 'PM Gems',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {

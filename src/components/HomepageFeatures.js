@@ -4,32 +4,32 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Continuous Learning',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        PMs should cultivate a learning culture where people keep learning & sharing.
+        To be able to adapt to changing tools, technologies, and customer needs.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Teams Approach',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Collaboration unlocks potential. Success comes from working hand-in-hand with PMs,
+        engineers,and stakeholders, turning shared goals into powerful outcomes.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Deliver Working Software',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Value lives in action. Focus on delivering real, working software that
+        solves problems, drives impact, and creates customer delight.
       </>
     ),
   },

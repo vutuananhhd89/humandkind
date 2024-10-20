@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/teams/starting-point">
-            Be Human
+            Uncover PM Gems
           </Link>
         </div>
       </div>
